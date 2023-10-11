@@ -1,1 +1,1 @@
-hello, this is the first git project
+hello, this is the first git.
